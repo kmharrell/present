@@ -1,31 +1,34 @@
-# Flux 
+# Drupal 8 
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Multilingual First
+More Accessible
+More Responsive
+Less Code to Maintain
 
 ---
-### New Slide
 
-- How fast
+### Less Code to Maintain
+
+Currently Unite Web uses Panopoly which uses 70+ modules
+There are an additional 35 add on modules to create functionality such as multilingualism
+UN8 Profile uses 7 modules and one base theme.
+Most localization and multilingual functionality is now included in core
+
+Before: x code snippits to maintain.  Now 11 code snippits to maintain.
+
 ---
-### New Slide
+### Additional Functionality For Site Set Up
 
-- How fast
-- Stores: Handle State & Logic
+- Profile now includes two versions: a site that imports content from Drupal 7/Unite Web or a site that starts with demo content 
+---
+### Multilingualism
+
+- Drupal 8 is multilingual first so translations are smoother and more comprehensive and require less set up.
 
 ---
-### New Slide
+### Accessibility
 
-- How fast
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- 
 
 ---
 
