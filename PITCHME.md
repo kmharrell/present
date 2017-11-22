@@ -1,4 +1,4 @@
-# Git<span class="gold">Pitch</span>
+# UN Website<span class="gold">Harmonization</span>
 
 
 #### Barriers to Success
@@ -15,10 +15,14 @@ Tech standards need to be clearly defined.
   Is Uniteweb the standard and, if so, are websites required to use it?
   Are there banned technologies?
 
+---
+
 <span class="byline">Mid Term Barriers</span>
 Plan with DPI for legacy sites
 OICT database 
 Person to cover/manage harmonization
+
+---
 
 <span class="byline">Long Term Barriers</span>
   Create all sites with eye towards flexible porting
