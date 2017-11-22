@@ -1,35 +1,29 @@
-# Drupal 8 
+# Git<span class="gold">Pitch</span>
 
-Multilingual First
-More Accessible
-More Responsive
-Less Code to Maintain
 
----
+#### Barriers to Success
 
-### Less Code to Maintain
+<span class="byline">Short Term Barriers</span>
+List of minimum requirements including branding, technology and responsiveness/accessibility
+Method of approval
+Non-un.org domain approval process?
+Tech standards need to be clearly defined.
+  Can there be outside hosting?  
+  Outside Development? 
+  Does there have to be a CMS?  
+  Does the CMS have to be Drupal?
+  Is Uniteweb the standard and, if so, are websites required to use it?
+  Are there banned technologies?
 
-Currently Unite Web uses Panopoly which uses 70+ modules
-There are an additional 35 add on modules to create functionality such as multilingualism
-UN8 Profile uses 7 modules and one base theme.
-Most localization and multilingual functionality is now included in core
+<span class="byline">Mid Term Barriers</span>
+Plan with DPI for legacy sites
+OICT database 
+Person to cover/manage harmonization
 
-Before: x code snippits to maintain.  Now 11 code snippits to maintain.
-
----
-### Additional Functionality For Site Set Up
-
-- Profile now includes two versions: a site that imports content from Drupal 7/Unite Web or a site that starts with demo content 
----
-### Multilingualism
-
-- Drupal 8 is multilingual first so translations are smoother and more comprehensive and require less set up.
-
----
-### Accessibility
-
-- 
-
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+<span class="byline">Long Term Barriers</span>
+  Create all sites with eye towards flexible porting
+  Hiring is more flexible, not just for Drupal 7/Drupal 8 which is redundant.
+    Expertise should not be platform but duties (?) Front end, back end, etc
+  Employ CI and headless development 
+  
+  
